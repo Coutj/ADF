@@ -1,0 +1,9 @@
+{
+	"name": "adf-coutj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94b90ffa-ed6b-4687-bc4d-a8f3eff1c57f",
+		"tenantId": "14cbd5a7-ec94-46ba-b314-cc0fc972a161"
+	}
+}
